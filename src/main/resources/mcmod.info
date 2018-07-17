@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sheep2diamonds",
+  "name": "Sheep 2 Diamonds",
+  "description": "Turn sheep into diamonds",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_Bloop"],
+  "credits": "Thanks to InsomniaKitten and tterrag for helping me with pretty much everything, starting with even just setting up the workspace.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
